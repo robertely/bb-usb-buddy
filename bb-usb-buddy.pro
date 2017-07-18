@@ -1,4 +1,4 @@
-update=Tue 18 Jul 2017 04:58:48 PM MDT
+update=Tue 18 Jul 2017 05:41:17 PM MDT
 version=1
 last_client=kicad
 [pcbnew]
@@ -56,6 +56,5 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
-LibName30=usb_micro_b
 [general]
 version=1
